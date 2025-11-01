@@ -191,7 +191,7 @@ VITE_BACKEND_URL="http://localhost:4000"
 # Author
     Sk Asif Ahmed
 
-    Portfolio: skasifahmed.dev
-    LinkedIn: linkedin.com/in/skasifahmed
-    GitHub: @Asiff07
-    Email: skasifahmedofficial@gmail.com
+    Portfolio: skarifahmed.app
+    LinkedIn: linkedin.com/in/skarifahmed
+    GitHub: @Arif1258
+    Email: skarifahmedofficial@gmail.com
